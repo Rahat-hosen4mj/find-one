@@ -30,3 +30,7 @@ img {
 .laptop-btn:hover{
     background-color: #95A0A7;
 }
+.laptop-btn p{
+    margin-right: 10px;
+    font-size: 1.1rem;
+}
