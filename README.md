@@ -1,5 +1,5 @@
 ## live site link
-Click here for live site link [https://get-luckily-one4mj.netlify.app/](https://get-luckily-one4mj.netlify.app/)
+Click here for live site link [https://get-luckily4mj.netlify.app/](https://get-luckily4mj.netlify.app/)
 
 ## Code link
 
