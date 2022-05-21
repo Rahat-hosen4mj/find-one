@@ -9,8 +9,8 @@
     "quantity": 0
   },
   {
-    "id": "1",
-    "brand": "asus",
+    "id": "2",
+    "brand": "samsung",
     "name": "ULTRABOOST 22 SHOES",
     "price": 420,
     "ratings": 4,
@@ -18,8 +18,8 @@
     "quantity": 0
   },
   {
-    "id": "1",
-    "brand": "asus",
+    "id": "3",
+    "brand": "lenevo",
     "name": "ULTRABOOST 22 SHOES",
     "price": 420,
     "ratings": 4,
@@ -27,8 +27,8 @@
     "quantity": 0
   },
   {
-    "id": "1",
-    "brand": "asus",
+    "id": "4",
+    "brand": "hp",
     "name": "ULTRABOOST 22 SHOES",
     "price": 420,
     "ratings": 4,

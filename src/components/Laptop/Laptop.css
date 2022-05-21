@@ -1,0 +1,32 @@
+img {
+    width: 286px;
+    height: 286px;
+    border-radius: 8px;
+    margin: 8px;
+}
+.laptop{
+    height: 508px;
+    width: 300px;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    position: relative;
+}
+.laptop-info{
+    margin: 0 14px;
+}
+.laptop-btn{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    border: none;
+    background-color: #fefcf8;
+    height: 48px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.laptop-btn:hover{
+    background-color: #95A0A7;
+}
