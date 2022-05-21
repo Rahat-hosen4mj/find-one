@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "brand": "asus",
+    "name": "ULTRABOOST 22 SHOES",
+    "price": 420,
+    "ratings": 4,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
+    "quantity": 0
+  },
+  {
+    "id": "1",
+    "brand": "asus",
+    "name": "ULTRABOOST 22 SHOES",
+    "price": 420,
+    "ratings": 4,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/69cbc73d0cb846889f89acbb011e68cb_9366/Supernova_Shoes_Black_S42722_01_standard.jpg",
+    "quantity": 0
+  },
+  {
+    "id": "1",
+    "brand": "asus",
+    "name": "ULTRABOOST 22 SHOES",
+    "price": 420,
+    "ratings": 4,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9c7058d8677742ac8519ac3f009cdcf4_9366/Tiro_21_Track_Pants_Black_GH7305_21_model.jpg",
+    "quantity": 0
+  },
+  {
+    "id": "1",
+    "brand": "asus",
+    "name": "ULTRABOOST 22 SHOES",
+    "price": 420,
+    "ratings": 4,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c7f050932336444ca286acbb0121f995_9366/Essentials_French_Terry_Tapered-Cuff_3-Stripes_Pants_Grey_GK8824_21_model.jpg",
+    "quantity": 0
+  }
+]
