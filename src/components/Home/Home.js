@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import Cart from '../../Cart/Cart';
+import Cart from '../Cart/Cart'
 import Laptop from '../Laptop/Laptop';
 import './Home.css'
 
@@ -13,25 +13,15 @@ const Home = () => {
         .then(data => setLaptops(data))
     } ,[]);
 
-    // useEffect( () =>{
-    //     const storedCart = getStoredCart();
-    //     const savedCart = [];
-    //     for(const id in storedCart){
-    //         const addedProduct = products.find(product => product.id === id);
-    //         if(addedProduct){
-    //             const quantity = storedCart[id];
-    //             addedProduct.quantity = quantity;
-    //             savedCart.push(addedProduct);
-    //         }
-    //     }
-    //     setCart(savedCart)
- 
-    // } ,[products]);
     
     const handleAddToCart = (laptop) => {
-       console.log(laptop);
-       const newCart = [...cart, laptop];
-       setCart(newCart);
+        if(cart.length < 4){
+            const newCart = [...cart, laptop];
+            setCart(newCart);
+        }else{
+            alert('You can not add more than 4 cart');
+        }
+      
      }
     return (
         <div className='home-ui'>
@@ -45,7 +35,7 @@ const Home = () => {
            
            </div>
            <div className='cart-container'>
-              <Cart cart={cart}></Cart>
+              <Cart cart={cart} setCart={setCart}></Cart>
            </div>
         </div>
     );

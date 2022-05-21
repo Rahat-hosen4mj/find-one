@@ -1,38 +1,101 @@
 [
   {
     "id": "1",
-    "brand": "asus",
-    "name": "ULTRABOOST 22 SHOES",
-    "price": 420,
+    "brand": "Asus",
+    "name": "Vivo Book",
+    "price": 370,
     "ratings": 4,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
+    "img": "https://images.unsplash.com/photo-1531063626275-e6680b864755?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YXN1cyUyMGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600",
     "quantity": 0
   },
   {
     "id": "2",
-    "brand": "samsung",
-    "name": "ULTRABOOST 22 SHOES",
+    "brand": "Asus",
+    "name": "ROG Zephyrus M16.",
     "price": 420,
     "ratings": 4,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/69cbc73d0cb846889f89acbb011e68cb_9366/Supernova_Shoes_Black_S42722_01_standard.jpg",
+    "img": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGFzdXMlMjBsYXB0b3B8ZW58MHx8MHx8&auto=format&fit=crop&w=600",
     "quantity": 0
   },
   {
     "id": "3",
     "brand": "lenevo",
-    "name": "ULTRABOOST 22 SHOES",
-    "price": 420,
+    "name": "ROG Flow X13",
+    "price": 380,
     "ratings": 4,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9c7058d8677742ac8519ac3f009cdcf4_9366/Tiro_21_Track_Pants_Black_GH7305_21_model.jpg",
+    "img": "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGFzdXMlMjBsYXB0b3B8ZW58MHx8MHx8&auto=format&fit=crop&w=600",
     "quantity": 0
   },
   {
     "id": "4",
-    "brand": "hp",
-    "name": "ULTRABOOST 22 SHOES",
+    "brand": "Macbook",
+    "name": "MacBook Pro 14",
+    "price": 350,
+    "ratings": 4,
+    "img": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bWFjYm9va3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600",
+    "quantity": 0
+  },
+  {
+    "id": "5",
+    "brand": "Macbook",
+    "name": "MacBook Pro 13",
+    "price": 330,
+    "ratings": 4,
+    "img": "https://images.unsplash.com/photo-1526570207772-784d36084510?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1hY2Jvb2t8ZW58MHx8MHx8&auto=format&fit=crop&w=600",
+    "quantity": 0
+  },
+  {
+    "id": "6",
+    "brand": "Macbook",
+    "name": "MacBook Air",
     "price": 420,
     "ratings": 4,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c7f050932336444ca286acbb0121f995_9366/Essentials_French_Terry_Tapered-Cuff_3-Stripes_Pants_Grey_GK8824_21_model.jpg",
+    "img": "https://images.unsplash.com/photo-1576103200868-2dd3eec3f333?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fG1hY2Jvb2t8ZW58MHx8MHx8&auto=format&fit=crop&w=600",
+    "quantity": 0
+  },
+  {
+    "id": "7",
+    "brand": "Samsung",
+    "name": "Notebook 9 Pro",
+    "price": 390,
+    "ratings": 4,
+    "img": "https://images.unsplash.com/photo-1522202222206-b75023c48f4f?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8c2Ftc3VuZyUyMGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600",
+    "quantity": 0
+  },
+  {
+    "id": "8",
+    "brand": "Samsung",
+    "name": "Galaxy Book Flex",
+    "price": 280,
+    "ratings": 4,
+    "img": "https://images.unsplash.com/photo-1628912595201-ad4720b4ce30?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8c2Ftc3VuZyUyMGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600",
+    "quantity": 0
+  },
+  {
+    "id": "9",
+    "brand": "Dell",
+    "name": "Dell Alienware x14",
+    "price": 410,
+    "ratings": 4,
+    "img": "https://images.unsplash.com/photo-1593642633279-1796119d5482?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGhwJTIwbGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600",
+    "quantity": 0
+  },
+  {
+    "id": "10",
+    "brand": "Huawei",
+    "name": "MateBook X Pro",
+    "price": 360,
+    "ratings": 4,
+    "img": "https://images.unsplash.com/photo-1592434134753-a70baf7979d5?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGhwJTIwbGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600",
+    "quantity": 0
+  },
+  {
+    "id": "11",
+    "brand": "Macbook",
+    "name": "Macbook 12 pro",
+    "price": 320,
+    "ratings": 4,
+    "img": "https://images.unsplash.com/photo-1620714223084-8fcacc6dfd8d?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871",
     "quantity": 0
   }
 ]
