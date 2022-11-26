@@ -3,10 +3,12 @@ Click here for live site link [https://get-luckily4mj.netlify.app/](https://get-
 
 ## Code link
 
-Click here for code link [https://github.com/Programming-Hero-Web-Course4/](https://github.com/Programming-Hero-Web-Course4/lucky-one-Rahat-hosen4mj?fbclid=IwAR3KvunyhI9G0YqKFU4Hd6Gvvse-WYLKHlYuhCRLZsKK-VQCyal0CFUDQ2I).
+Click here for code link [https://github.com/Rahat-hosen4mj/find-one](https://github.com/Rahat-hosen4mj/find-one).
 
 ## Available object
- - React fontAwesome
- - code sorted by meaningful component name
+* you can selet or choose 4 laptop at a time
+* then can randomly choose one of them
+* you can simply press choose again btn. 
+
 
 
